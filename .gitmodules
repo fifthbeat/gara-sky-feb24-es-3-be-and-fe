@@ -1,0 +1,6 @@
+[submodule "es-3-backend"]
+	path = es-3-backend
+	url = https://git.dstech.info/gara-sky-feb24/es-3-backend.git
+[submodule "es-3-fe"]
+	path = es-3-fe
+	url = https://git.dstech.info/gara-sky-feb24/es-3-fe
