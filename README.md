@@ -1,10 +1,21 @@
-# Creazione immagine Docker
+## Creazione e Avvio dei Servizi con Docker Compose
 
-#### step di creazione:
-1. docker compose up -d
+## Avvio dei Servizi
 
+Per avviare i container in modalità detached, eseguire il seguente comando:
+
+```sh
+docker compose up -d
+```
+
+
+
+## Accesso alle Applicazioni
 ### Frontend
-view site: [http://localhost:3000](http://localhost:3000)
+L'interfaccia utente è disponibile all'indirizzo:
 
+view site: [http://localhost:3000](http://localhost:3000)
 ### Backend
+L'API è accessibile all'indirizzo:
+
 view site: [http://localhost:4000](http://localhost:4000)
